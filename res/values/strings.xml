@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tra cứu điểm thi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="line">Line</string>
+    <string name="bar">Bar</string>
+    <string name="pie">Pie</string>
+    <string name="xem">Xem</string>
+    <string name="ketqua">Kết quả</string>
+    <string name="bi_u_">Biểu đồ: Phân bố điểm thi theo số thí sinh</string>
+    <string name="tieuchithongke">Tiêu chí thống kê</string>
+    <string name="btn_xong">Xong</string>
+
+</resources>

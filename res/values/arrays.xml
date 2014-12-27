@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="textHienthi">
+        <item>Môn thi</item>
+        <item>Điểm tổng</item>
+        <item>Toán</item>
+        <item>Văn</item>
+        <item>Ngoại ngữ</item>
+        <item>Lý</item>
+        <item>Hóa</item>
+        <item>Sinh</item>
+        <item>Sử</item>
+        <item>Địa</item>
+    </string-array>
+    <string-array name="textValue">
+        <item>mon</item>
+        <item>DiemTong</item>
+        <item>Toan</item>
+        <item>Van</item>
+        <item>NgoaiNgu</item>
+        <item>Ly</item>
+        <item>Hoa</item>
+        <item>Sinh</item>
+        <item>Su</item>
+        <item>Dia</item>
+    </string-array>
+
+</resources>
